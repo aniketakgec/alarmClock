@@ -10,7 +10,7 @@ The code in this repository is for an IR remote controlled alarm clock, for more
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Alarmclock
 
-## Usage Module
+## Usage 
 
 ```python
 HTMl
